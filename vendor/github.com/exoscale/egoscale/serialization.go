@@ -3,7 +3,7 @@ package egoscale
 import (
 	"encoding/base64"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net"
 	"net/url"
 	"reflect"
