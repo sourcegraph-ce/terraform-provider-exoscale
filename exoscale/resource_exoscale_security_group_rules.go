@@ -3,7 +3,7 @@ package exoscale
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"math/rand"
 	"strconv"
 	"strings"

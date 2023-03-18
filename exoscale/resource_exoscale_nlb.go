@@ -3,7 +3,7 @@ package exoscale
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	apiv2 "github.com/exoscale/egoscale/api/v2"
 
